@@ -39,14 +39,22 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     func tableView(_ tableView: UITableView, moveRowAt sourceIndexPath: IndexPath, to destinationIndexPath: IndexPath) {
         models.swapAt(sourceIndexPath.row, destinationIndexPath.row)
     }
+    func tableView(_ tableView: UITableView, editingStyleForRowAt indexPath: IndexPath) -> UITableViewCell.EditingStyle {
+           return .none
+       }
+
+     
     
     @IBAction func didTapSort() {
-        if table.isEditing{
+      /*/ if table.isEditing{
             table.isEditing = false
         }
         else {table.isEditing = true
             
-        }
+        }*/
+       UIView.animate(withDuration: 0.3) {
+                   self.table.setEditing(!self.table.isEditing, animated: true)
+               }
     }
 
 }
