@@ -1,8 +1,22 @@
 
+# MoveLingo - TableView
+
+____________________________________________________________________________________________________________________________________________
+
+
+
+https://github.com/Nelivet/MoveLingo-TableView/assets/93177387/46b08148-a264-4bf1-8ab9-07feb47ce054v
+
+📱 :white_check_mark:
+
+
+### **Creditos**
+____________________________________________________________________________________________________________________________________________
+
+⌨️ Developed with ♥️ by Ivette Fernandez 😊 :cherry_blossom:
 
 
 
 
 
-https://github.com/Nelivet/MoveLingo-TableView/assets/93177387/46b08148-a264-4bf1-8ab9-07feb47ce054
 
