@@ -1,6 +1,6 @@
 
 # MoveLingo - TableView
-
+This demo shows how to easily customize the order of its favorite languages in a table view. Simply tap and move the cells to arrange them however you want.
 ____________________________________________________________________________________________________________________________________________
 
 
