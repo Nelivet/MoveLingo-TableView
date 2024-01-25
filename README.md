@@ -1,4 +1,8 @@
 
 
-https://github.com/Nelivet/MoveLingo-TableView/assets/93177387/4b8a782e-6103-42ff-86a5-b7f5ed05ddcc
+
+
+
+
+https://github.com/Nelivet/MoveLingo-TableView/assets/93177387/46b08148-a264-4bf1-8ab9-07feb47ce054
 
