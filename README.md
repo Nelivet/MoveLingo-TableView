@@ -5,7 +5,11 @@ ________________________________________________________________________________
 
 
 
-https://github.com/Nelivet/MoveLingo-TableView/assets/93177387/46b08148-a264-4bf1-8ab9-07feb47ce054v
+https://github.com/Nelivet/MoveLingo-TableView/assets/93177387/204ca0b4-d77f-42e7-828e-c2968038fb62
+
+
+
+
 
 📱 :white_check_mark:
 
